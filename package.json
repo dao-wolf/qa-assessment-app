@@ -1,0 +1,15 @@
+{
+  "name": "automated-report-reports",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app/server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  }
+}
